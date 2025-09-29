@@ -1,2 +1,2 @@
 # justsec.github.io
-Personal portfolio &amp; pentest / bugbounty writeups by JustSec.
+Personal portfolio &amp; pentest / bug bounty writeups by JustSec.
