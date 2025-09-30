@@ -5,6 +5,7 @@ title: JustSec | Portfolio
 
 # 👋 Welcome to JustSec
 
+Hi, I'm Just.
 I’m a cybersecurity enthusiast and penetration tester.  
 This site is my personal knowledge base, portfolio, and a place to share write-ups.
 
