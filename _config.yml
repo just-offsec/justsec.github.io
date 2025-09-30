@@ -1,4 +1,4 @@
 title: "JustSec"
 descriptions: "Portfolio & Blog of a Pentester"
-theme: minima
+theme: jekyll-theme-hacker
 markdown: kramdown
