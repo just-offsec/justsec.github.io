@@ -20,4 +20,4 @@ This site is my personal knowledge base, portfolio, and a place to share write-u
 
 ## 🔹 Contacts
 - GitHub: https://github.com/just-offsec
-- Email: just.offsec@gmail.com
+- Email: [just.offsec@gmail.com](https://gmail.com) 
