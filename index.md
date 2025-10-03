@@ -15,7 +15,7 @@ This site is my personal knowledge base, portfolio, and a place to share write-u
 - Passionate about CTF challenges, bug bounty, and open-source tools.
 
 ## 🔹 Projects
-- [My Pentest Scripts](https://github.com/JustSec/pentest-scripts)
+- [My Pentest Scripts](./scripts)
 - [CTF Writeups](./writeups)
 
 ## 🔹 Contacts
