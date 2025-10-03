@@ -6,7 +6,7 @@ title: JustSec | Portfolio
 # 👋 Welcome to JustSec
 
 Hi, I'm Just.
-I’m a cybersecurity enthusiast and penetration tester.  
+I’m a cybersecurity enthusiast and bug bounty hunter.  
 This site is my personal knowledge base, portfolio, and a place to share write-ups.
 
 ## 🔹 About Me
@@ -15,9 +15,9 @@ This site is my personal knowledge base, portfolio, and a place to share write-u
 - Passionate about CTF challenges, bug bounty, and open-source tools.
 
 ## 🔹 Projects
-- [My Pentest Scripts](./scripts)
+- [My Bug bounty & Pentest Scripts](./scripts)
 - [CTF Writeups](./writeups)
 
 ## 🔹 Contacts
-- GitHub: https://github.com/just-offsec
+- GitHub: [https://github.com/just-offsec](https://github.com/just-offsec)
 - Email: [just.offsec@gmail.com](https://gmail.com) 
