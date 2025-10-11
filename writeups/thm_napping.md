@@ -11,7 +11,7 @@ title: "Napping"
 
 ---
 
-<span style="color:red"><h2>1. 🔍 Enumeration Part + Directory Bruteforcing</h2></span><br>
+<h2><span style="color:red">1. 🔍 Enumeration Part + Directory Bruteforcing</span></h2><br>
 We will start from the nmap scan:
 <center>
 <img src="./images/nmap_napping.png"> 
@@ -56,6 +56,6 @@ All links will be reviewed by our admin who also built this site!"<br>
 </center>
 <br>
 
-Guessing that if we will do a mirroring of login.php page the admin will review it and enter his creds, lets try:<br>
-<span style="color:red"><strong>2. ☠️ Exploitation Part</strong></span><br>
+Guessing that if we will get a copy of login.php and create a phishing .html page with redirection and capturing response the admin will review it and enter his creds after he will receive out link, lets try.<br>
+<h2><span style="color:red"><strong>2. ☠️ Exploitation Part</strong></span></h2><br>
 
