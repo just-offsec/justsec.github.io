@@ -17,8 +17,13 @@ We will start from the nmap scan:
 <img src="./images/nmap_napping.png"> 
 </center><br>
 
+Directory bruteforcing using gobuster tool:<br>
+```bash
 gobuster dir -u http://10.10.136.217/ -w=/usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -x php<br>
-gobuster result screen<br>
+```
+<center>
+<img src="./images/gobuster_napping.png">
+</center><br>
 
 gobuster dir -u http://10.10.136.217/admin/ -w=/usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -x php<br>
 gobuster admin screen<br>
