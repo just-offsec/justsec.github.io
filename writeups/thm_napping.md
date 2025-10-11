@@ -49,13 +49,13 @@ Also checking the admin page on /admin/login.php<br>
 <img src="./images/admin_login_napping.png">
 </center>
 
-After creating and signing up a hacker account we see the text that says "Please submit your link so that we can get started.
+After creating and signing up as a hacker, we see the text that says "Please submit your link so that we can get started.
 All links will be reviewed by our admin who also built this site!"<br>
 <center>
 <img src="./images/loggedin_napping.png">
 </center>
 <br>
 
-Guessing that if we will get a copy of login.php and create a phishing .html page with redirection and capturing response the admin will review it and enter his creds after he will receive out link, lets try.<br>
+By cloning the login.php page and creating a phishing HTML page with credential capture functionality, we can attempt to trick the admin into entering their credentials when they review our submitted link.<br>
 <h2><span style="color:red"><strong>2. ☠️ Exploitation Part</strong></span></h2><br>
 
