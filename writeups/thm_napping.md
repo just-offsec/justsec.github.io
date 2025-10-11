@@ -8,9 +8,10 @@ title: "Napping"
 <strong>2. ☠️ Exploitation Part</strong><br>
 <strong>3. 🔓 Privilege Escalation Part</strong>
 </center>
+
 ---
 
-1. <strong>1. 🔍 Enumeration Part + Directory Bruteforcing</strong><br>
+<span style="color:red"><strong>1. 🔍 Enumeration Part + Directory Bruteforcing</strong></span><br>
 We will start from the nmap scan:<br>
 nmap scan screen<br>
 
