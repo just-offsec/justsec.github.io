@@ -11,7 +11,7 @@ title: "Napping"
 
 ---
 
-<span style="color:red"><strong>1. 🔍 Enumeration Part + Directory Bruteforcing</strong></span><br>
+<span style="color:red"><h2>1. 🔍 Enumeration Part + Directory Bruteforcing</h2></span><br>
 We will start from the nmap scan:
 <center>
 <img src="./images/nmap_napping.png"> 
