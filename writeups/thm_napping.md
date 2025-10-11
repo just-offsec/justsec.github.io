@@ -49,10 +49,10 @@ Also checking the admin page on /admin/login.php<br>
 <img src="./images/admin_login_napping.png">
 </center>
 
-After creating and signing up we see the text that says "Please submit your link so that we can get started.
+After creating and signing up a hacker account we see the text that says "Please submit your link so that we can get started.
 All links will be reviewed by our admin who also built this site!"<br>
 <center>
-<img scr="./images/loggedin_napping.png">
+<img src="./images/loggedin_napping.png">
 </center>
 <br>
 
