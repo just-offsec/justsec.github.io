@@ -19,14 +19,19 @@ We will start from the nmap scan:
 
 Directory bruteforcing using gobuster tool:<br>
 ```bash
-gobuster dir -u http://10.10.136.217/ -w=/usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -x php<br>
+gobuster dir -u http://10.10.136.217/ -w=/usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -x php
 ```
 <center>
 <img src="./images/gobuster_napping.png">
 </center><br>
 
-gobuster dir -u http://10.10.136.217/admin/ -w=/usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -x php<br>
-gobuster admin screen<br>
+We also see that /admin directory appeared, going further to see more:<br>
+```bash
+gobuster dir -u http://10.10.136.217/admin/ -w=/usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -x php
+```
+<center>
+<img src="./images/gobuster_admin_napping.png"> 
+</center>
 
 Cheking the page:<br>
 
