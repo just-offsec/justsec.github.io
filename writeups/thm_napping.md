@@ -34,6 +34,13 @@ gobuster dir -u http://10.10.136.217/admin/ -w=/usr/share/wordlists/dirbuster/di
 </center>
 
 Cheking the page:<br>
+<center>
+<img src="./images/mainpage_napping.png">
+</center>
+We will sign up a new account<br>
+<center>
+<img src="./images/sign_up_napping.png">
+</center>
 
 Simply open the ip adress in the browser, seeing the login form and register form.<br>
 Will create an account and login there:<br>
