@@ -4,7 +4,7 @@ title: "Napping"
 
 ---
 <center>
-**1. Enumeration Part + directory bruteforcing**<br> 
-**2. Exploitation Part**<br>
-**3. Privilege Escalation Part**
+<strong>1. Enumeration Part + directory bruteforcing</strong><br> 
+<strong>2. Exploitation Part</strong><br>
+<strong>3. Privilege Escalation Part</strong>
 </center>
