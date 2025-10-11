@@ -12,10 +12,10 @@ title: "Napping"
 ---
 
 <span style="color:red"><strong>1. 🔍 Enumeration Part + Directory Bruteforcing</strong></span><br>
-We will start from the nmap scan:<br>
+We will start from the nmap scan:
 <center>
-![NMAP](./images/nmap_napping.png)
-</center>
+- [NMAP]<img src="./images/napping_main.png"> 
+</center><br>
 
 gobuster dir -u http://10.10.136.217/ -w=/usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-medium.txt -x php<br>
 gobuster result screen<br>
