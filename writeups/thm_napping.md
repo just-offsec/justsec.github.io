@@ -46,7 +46,7 @@ We will sign up a new account<br>
 
 Also checking the admin page on /admin/login.php<br>
 <center>
-<img src="./images/admin_login_napping">
+<img src="./images/admin_login_napping.png">
 </center>
 
 After creating and signing up we see the text that says "Please submit your link so that we can get started.
