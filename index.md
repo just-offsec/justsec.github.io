@@ -10,9 +10,9 @@ I’m a cybersecurity enthusiast and bug bounty hunter.
 This site is my personal knowledge base, portfolio, and a place to share write-ups.
 
 ## 🔹 About Me
-- Penetration tester with hands-on experience in offensive security.<br><br>
+- Penetration tester with hands-on experience in offensive security.<br>
 
-- Focus on web security, network exploitation, Active Directory attacks.<br><br>
+- Focus on web security, network exploitation, Active Directory attacks.<br>
 
 - Passionate about CTF challenges, bug bounty, and open-source tools.
 
